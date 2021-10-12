@@ -1,1 +1,1 @@
-# responsive
+TinDog Starting Files
